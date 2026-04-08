@@ -1,6 +1,6 @@
 {
+  "lang": "nickel",
   "url": "https://github.com/nickel-lang/tree-sitter-nickel",
   "semver": false,
-  "parser_version": "b5b6cc3bc7b9ea19f78fed264190685419cd17a8",
-  "lang": "nickel"
+  "parser_version": "b5b6cc3bc7b9ea19f78fed264190685419cd17a8"
 }
